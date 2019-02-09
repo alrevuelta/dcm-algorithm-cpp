@@ -7,7 +7,9 @@ Note that this library is totally independant from the sensors (both software an
 In the following secton some information about DCM algorithm is presented, but without going to much in detail. If you want to know more about the existing maths under the hood, feel free to check the references in the last section, specially [1] which contains a C implementation of the algorithm and has been used as a reference for this implementation.
 
 # Example
-TODO:
+<p align="center">
+  <img width="360" height="200" src="https://github.com/alrevuelta/dcm-algorithm-cpp/blob/master/img/demo.gif">
+</p>
 
 # DCM Algorithm
 
